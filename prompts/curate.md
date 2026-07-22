@@ -4,9 +4,9 @@
 
 # Decisioning Criteria:
 - Overall image impression of style and quality (weight: 0.2)
-- Protagonist cat has cool traits (weight: 0.2)
+- Protagonist grizzly bear has cool traits (weight: 0.2)
 - Image includes the text "BEMEOW" (weight: 0.1)
-- Protagonist cat is center of attention (weight: 0.2)
+- Protagonist grizzly bear is center of attention (weight: 0.2)
 - Image uniqueness (weight: 0.1)
 - Image has no: weirdness, nonsense and distortion (weight: 0.2)
 
